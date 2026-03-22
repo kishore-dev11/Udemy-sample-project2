@@ -1,5 +1,4 @@
 # Udemy-sample-project2
-# Udemy Sample Projects
 
 ## HTML & CSS Flexbox Project
 
